@@ -1,3 +1,4 @@
+#Algoritmo para...
 #Colocar la mesa para comer
 
 Colocar el mantel
