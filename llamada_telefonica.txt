@@ -1,0 +1,17 @@
+#Tema: Realizar una llamada telefónica desde un teléfono publico tarjetero:
+#Fuente: http://hustariz.cs.umss.edu.bo/algLenNat.htm
+
+Ubicar el teléfono publico en buen estado
+Ubicar el numero de teléfono
+Ubicar la tarjeta telefónica con saldo disponible
+Descolgar el auricular
+Esperar tono
+Introducir la tarjeta telefónica
+Marcar el numero
+Esperar respuesta
+Si suena ocupado colgar el auricular
+Si atienden la llamada
+Conversar
+Colgar el auricular
+Extraer tarjeta telefónica
+Fin

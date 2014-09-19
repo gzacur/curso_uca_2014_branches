@@ -1,0 +1,11 @@
+#Ver el programa preferido en el canal de televisión
+
+Enchufar el televisor
+Encender el televisor
+Ver la imagen en la pantalla
+Preguntarse es el canal que deseo ver?
+Si es falso, cambio el canal
+Si es verdadero, ver el programa
+regular el volumen
+reclinarse en el living
+Fin

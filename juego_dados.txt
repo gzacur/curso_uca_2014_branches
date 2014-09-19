@@ -1,0 +1,8 @@
+#Juego de dos dados, hasta que la suma de los dados sea igual a seis
+
+Alistar dos dados y el cubilete
+lanzar los dados
+verificar si la suma de los dos dados es igual a seis
+si es falso nuevamente ir al paso 1.
+si verdadero, concluye el juego
+fin
