@@ -1,0 +1,10 @@
+#Cambiar la Rueda Pinchada del auto
+
+Colocar Gato Hidraulico bajo el auto.
+Si el Gato Hidraulico esta seguro.
+Sacar los tornillos de la rueda. 
+Sacar la rueda pinchada.
+Colocar la rueda de auxilio.
+Colocar tornillos 
+Sacar Gato Hidraulico.
+fin
