@@ -1,5 +1,7 @@
 #Algoritmo para...
 #Colocar la mesa para comer
+#Autor: Gabriel Morales
+#Fecha: 19-09-2014
 
 Colocar el mantel
 Servir la comida
