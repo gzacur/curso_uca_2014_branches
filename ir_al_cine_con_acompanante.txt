@@ -1,4 +1,4 @@
-Ir al cine con acompanante
+#Este es un algoritmo para: Ir al cine con acompanante
 
 1. Salir de mi casa en el automovil.
 2. Buscar al acompanante de su ubicacion.
