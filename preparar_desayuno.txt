@@ -5,4 +5,5 @@
 1. Poner la mesa
 2. preparar cafe
 3. preparar sandwich
-4. FIN
+4. Imprirmir "Desayuno listo"
+5. FIN
