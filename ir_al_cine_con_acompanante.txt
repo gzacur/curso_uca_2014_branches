@@ -8,3 +8,5 @@
 5. Comprar los tickets.
 6. Comprar el pororo y las bebidas.
 7. Ingresar a la sala.
+
+print("Disfrutando la pelicula")
