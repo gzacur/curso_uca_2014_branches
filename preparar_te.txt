@@ -1,4 +1,6 @@
 #Este es un algoritmo para preparar una taza de te
+#Autor: Daisy Melgarejo
+#Fecha: 19/09/2014
 # 2. Preparar una taza de te
 1. Servir agua en una taza
 2. Abrir el microondas
