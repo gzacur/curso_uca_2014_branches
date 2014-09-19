@@ -1,5 +1,6 @@
 # Prepara sandwich de jamon y queso
-
+#Autor:Viviana Mendieta
+#Fecha:19/09/2014
 Conseguir pan de sandwich, jamon y queso cantidad necesaria
 Poner un pedazo de pan  sobre el plato
 Poner sobre el pan una feta de jamon
@@ -7,3 +8,4 @@ Poner sobre el jamon otro pedazo de pan
 Poner sobre el pan anterior una feta de queso
 Poner sobre el queso un pedazo de pan
 #un comentario
+#otro comentario
