@@ -10,3 +10,4 @@ Colocar los cubiertos
 Colocar la bebida
 Colocar los vasos
 A comer
+#fin del algoritmo colocar la mesa para comer
