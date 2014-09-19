@@ -1,1 +1,3 @@
 #Este es un algoritmo para: preparar el desayuno.
+#Autor: Guillermo Zacur
+#Fecha: 2014-09-19
