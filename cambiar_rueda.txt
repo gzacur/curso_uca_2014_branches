@@ -1,5 +1,6 @@
 #Cambiar la Rueda Pinchada del auto
-#Fecha de Creacion: 19.09.2014
+#Autor: Deisy Baranda
+#Fecha: 19.09.2014
 
 Colocar Gato Hidraulico bajo el auto.
 Si el Gato Hidraulico esta seguro.
