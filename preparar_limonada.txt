@@ -6,4 +6,5 @@ exprimir el jugo de los limones en la jarra
 echar cuatro cucharadas de azúcar
 mover el agua con una cuchara hasta disolver completamente el azúcar
 servir en vasos
+Agregar Azucar
 fin
