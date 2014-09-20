@@ -1,0 +1,9 @@
+#Este es un algoritmo para: preparar el desayuno.
+#Autor: Guillermo Zacur
+#Fecha: 2014-09-19
+
+1. Poner la mesa
+2. preparar cafe
+3. preparar sandwich
+4. Imprirmir "Desayuno listo"
+5. FIN
