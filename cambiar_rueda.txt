@@ -9,4 +9,6 @@ Sacar la rueda pinchada.
 Colocar la rueda de auxilio.
 Colocar tornillos 
 Sacar Gato Hidraulico.
+Imprimir "Rueda Cambiada."
+Cambio
 fin
